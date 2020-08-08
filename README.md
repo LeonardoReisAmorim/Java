@@ -11,4 +11,4 @@
 
 + **Jogo/Simulador de uma partida de Futebol** / Football Match Simulator: [ACESSE AQUI / ACCESS HERE](https://github.com/LeonardoReisAmorim/Java/tree/master/PartidaFutebol%20JAVA) 
 
-+ Códigos de estudo sobre **Vetor e função** / **Vector and function** study codes: [ACESSE AQUI / ACCESS HERE](https://github.com/LeonardoReisAmorim/Programming-C/tree/master/vetor%20e%20funcao)  
++ **Teste com banco de dados usando o Java** / Database testing using Java: [ACESSE AQUI / ACCESS HERE](https://github.com/LeonardoReisAmorim/Java/tree/master/testebanco%20JAVA)  
