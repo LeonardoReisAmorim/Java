@@ -1,6 +1,5 @@
 # Java
-## Mini-projetos, projetos e exercícios feitos em Java
- Projetos, Mini-projetos, Jogos e mais feitos na linguagem JAVA
+## Projetos, Mini-projetos, Jogos e mais feitos na linguagem JAVA
 ***
 + Exercicios de **logica** em *C* / **Logic** exercises in *C*:      [ACESSE AQUI / ACCESS HERE](https://github.com/LeonardoReisAmorim/Programming-C/tree/master/atividades%20resolvidas)
 
