@@ -1,7 +1,7 @@
 # Java
 ## Projetos, Mini-projetos, Jogos e mais feitos na linguagem JAVA
 ***
-+ Exercicios de **logica** em *C* / **Logic** exercises in *C*:      [ACESSE AQUI / ACCESS HERE](https://github.com/LeonardoReisAmorim/Programming-C/tree/master/atividades%20resolvidas)
++ Mini-projeto para **Buscar o CEP** de alguma pessoa: ---------:     [ACESSE AQUI / ACCESS HERE](https://github.com/LeonardoReisAmorim/Java/tree/master/BuscaCep%20JAVA)
 
 + Aulas sobre **estrutura e lógica** em *C* / Teaching on **structure and logic** in *C*:      [ACESSE AQUI / ACCESS HERE](https://github.com/LeonardoReisAmorim/Programming-C/tree/master/aulas%20programa%C3%A7%C3%A3o%20c) 
 
