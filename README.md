@@ -1,9 +1,9 @@
 # Java
 ## Projetos, Mini-projetos, Jogos e mais feitos na linguagem JAVA
 ***
-+ Mini-projeto usando uma API para **Buscar o CEP** de alguma pessoa: Miniproject using an API to search for someone's postal code:     [ACESSE AQUI / ACCESS HERE](https://github.com/LeonardoReisAmorim/Java/tree/master/BuscaCep%20JAVA)
++ Mini-projeto usando uma API para **Buscar o CEP** de alguma pessoa / Miniproject using an API to search for someone's postal code:     [ACESSE AQUI / ACCESS HERE](https://github.com/LeonardoReisAmorim/Java/tree/master/BuscaCep%20JAVA)
 
-+ Aulas sobre **estrutura e lógica** em *C* / Teaching on **structure and logic** in *C*:      [ACESSE AQUI / ACCESS HERE](https://github.com/LeonardoReisAmorim/Programming-C/tree/master/aulas%20programa%C3%A7%C3%A3o%20c) 
++ Trabalho feito com o objetivo de **fazer um controle de senhas** de algum estabelecimento /  Work done with the objective of doing a password control of some establishment [ACESSE AQUI / ACCESS HERE](https://github.com/LeonardoReisAmorim/Java/tree/master/Controle%20Senhas%20JAVA) 
 
 + Códigos de estudo sobre **Matriz** / **Matriz** study codes:     [ACESSE AQUI / ACCESS HERE](https://github.com/LeonardoReisAmorim/Programming-C/tree/master/matriz) 
 
