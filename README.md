@@ -7,7 +7,7 @@
 
 + **Jogo Pedra, Papel, Tesoura** / Rock Paper Scissors: [ACESSE AQUI / ACCESS HERE](https://github.com/LeonardoReisAmorim/Java/tree/master/JOGO%20PPT%20JAVA) 
 
-+ Códigos de estudo sobre **Struct** / **Struct** study codes: [ACESSE AQUI / ACCESS HERE](https://github.com/LeonardoReisAmorim/Programming-C/tree/master/struct)  
++ **Jogo de loteria usando uma API da Caixa** / Lottery game using a Cashier API: [ACESSE AQUI / ACCESS HERE](https://github.com/LeonardoReisAmorim/Java/tree/master/JogoLoteria%20JAVA)  
 
 + **Trabalhos feitos em C / Works done in C**: [ACESSE AQUI / ACCESS HERE](https://github.com/LeonardoReisAmorim/Programming-C/tree/master/trabalhos%20em%20c) 
 
