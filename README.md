@@ -9,6 +9,6 @@
 
 + **Jogo de loteria usando uma API da Caixa** / Lottery game using a Cashier API: [ACESSE AQUI / ACCESS HERE](https://github.com/LeonardoReisAmorim/Java/tree/master/JogoLoteria%20JAVA)  
 
-+ **Trabalhos feitos em C / Works done in C**: [ACESSE AQUI / ACCESS HERE](https://github.com/LeonardoReisAmorim/Programming-C/tree/master/trabalhos%20em%20c) 
++ **Jogo/Simulador de uma partida de Futebol** / Football Match Simulator: [ACESSE AQUI / ACCESS HERE](https://github.com/LeonardoReisAmorim/Java/tree/master/PartidaFutebol%20JAVA) 
 
 + Códigos de estudo sobre **Vetor e função** / **Vector and function** study codes: [ACESSE AQUI / ACCESS HERE](https://github.com/LeonardoReisAmorim/Programming-C/tree/master/vetor%20e%20funcao)  
