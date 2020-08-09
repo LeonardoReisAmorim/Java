@@ -4,4 +4,4 @@
 
 + #### [Aqui está o código da API](https://github.com/LeonardoReisAmorim/Java/blob/master/BuscaCep%20JAVA/src/api/BuscaCEP.java) 
 
-+ #### [Aqui está o código no projeto](https://github.com/LeonardoReisAmorim/Java/tree/master/BuscaCep%20JAVA/src/buscacep)
++ #### [Aqui está o código no projeto](https://github.com/LeonardoReisAmorim/Java/tree/master/BuscaCep%20JAVA/src/buscacep) ou as "View"
