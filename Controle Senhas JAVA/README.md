@@ -1,6 +1,6 @@
 # Trabalho feito com o objetivo de fazer um controle de senhas de algum estabelecimento
 
-+ #### Você pode testar a aplicação [Aqui](https://github.com/LeonardoReisAmorim/Java/blob/master/BuscaCep%20JAVA/dist/BuscaCep.jar) e clicando em "View raw". Precisa do Java instalado na sua máquina (JRE)
++ #### Você pode testar a aplicação [Aqui](https://github.com/LeonardoReisAmorim/Java/blob/master/Controle%20Senhas%20JAVA/dist/ControleSenhas.jar) e clicando em "View raw". Precisa do Java instalado na sua máquina (JRE)
 
 + #### [Aqui está o código da API](https://github.com/LeonardoReisAmorim/Java/blob/master/BuscaCep%20JAVA/src/api/BuscaCEP.java) 
 
